@@ -1,81 +1,51 @@
-# DesafioPauxiando app
+# 🎮 Desafio Pauxis
+Desafio Pauxis é um jogo educacional digital voltado para o apoio à alfabetização de crianças com Transtorno do Espectro Autista (TEA), utilizando os princípios da Terapia ABA (Análise do Comportamento Aplicada). O jogo é regionalizado e contextualizado com elementos culturais e geográficos da cidade de Óbidos-PA. <br>
+- Este projeto esta sendo usado como trabalho de conclusão de curso (TCC) como requisito para obtenção de diploma de Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-## Run the app
+## 📌 Objetivo
+O projeto tem como objetivo principal promover a inclusão educacional de crianças com TEA por meio de um jogo digital que estimula o desenvolvimento de habilidades de comunicação, linguagem e raciocínio lógico, respeitando o ritmo individual de cada aluno.
 
-### uv
+## 🧩 Funcionalidades
+- **Tela de Login**: acesso seguro ao jogo, com autenticação de usuários.
 
-Run as a desktop app:
+- **Tela de Cadastro**: registro de novos usuários com informações básicas.
 
-```
-uv run flet run
-```
+- **Tela de Menu**: navegação principal entre as seções do jogo.
 
-Run as a web app:
+- **Tela de Jogo de Palavras**: atividades interativas baseadas na associação de palavras e imagens locais (frutas, animais, objetos da região de Óbidos).
 
-```
-uv run flet run --web
-```
+- **Tela de Estatísticas**: exibe dados de desempenho e progresso do usuário após cada fase, com indicadores de acertos, tempo de resposta e evolução por sessão.
 
-### Poetry
+## 🎯 Público-Alvo
+- Crianças diagnosticadas com TEA em fase de alfabetização.
 
-Install dependencies from `pyproject.toml`:
+- Educadores e terapeutas que atuam no processo de ensino-aprendizagem com alunos autistas.
 
-```
-poetry install
-```
+- Pais e responsáveis que desejam reforçar o aprendizado das crianças em casa.
 
-Run as a desktop app:
+## 🧠 Base Teórica
+- **Terapia ABA**: utilizada para reforçar comportamentos positivos e estimular o aprendizado estruturado.
 
-```
-poetry run flet run
-```
+- **Tecnologias Digitais da Informação e Comunicação (TDICs)**: como ferramentas inclusivas no ambiente educacional.
 
-Run as a web app:
+- **Educação Inclusiva**: baseada na Lei Brasileira de Inclusão (Lei 13.146/15), promovendo igualdade de acesso à educação.
 
-```
-poetry run flet run --web
-```
+## 🌍 Regionalização
+O jogo foi adaptado com elementos visuais, sonoros e contextuais da cidade de Óbidos-PA, para promover maior identificação cultural e engajamento dos estudantes da região.
 
-For more details on running the app, refer to the [Getting Started Guide](https://flet.dev/docs/getting-started/).
+## 🛠️ Tecnologias Utilizadas
+- Python + Flet
+- SQLite
 
-## Build the app
+## 👩‍💻 Equipe de Desenvolvimento
+- **Raila Carvalho**
+- **Jarbas Peixoto**
 
-### Android
+**Orientador**: Prof. João Lúcio de Souza Junior. <br>
+**Coorientador**: Prof. Reinaldo Sales.
 
-```
-flet build apk -v
-```
+## 📈 Status do Projeto
+🟡 **Em desenvolvimento** — as telas principais já foram modeladas e estão em fase de implementação. A coleta de feedback com educadores e profissionais da saúde está em andamento.
 
-For more details on building and signing `.apk` or `.aab`, refer to the [Android Packaging Guide](https://flet.dev/docs/publish/android/).
-
-### iOS
-
-```
-flet build ipa -v
-```
-
-For more details on building and signing `.ipa`, refer to the [iOS Packaging Guide](https://flet.dev/docs/publish/ios/).
-
-### macOS
-
-```
-flet build macos -v
-```
-
-For more details on building macOS package, refer to the [macOS Packaging Guide](https://flet.dev/docs/publish/macos/).
-
-### Linux
-
-```
-flet build linux -v
-```
-
-For more details on building Linux package, refer to the [Linux Packaging Guide](https://flet.dev/docs/publish/linux/).
-
-### Windows
-
-```
-flet build windows -v
-```
-
-For more details on building Windows package, refer to the [Windows Packaging Guide](https://flet.dev/docs/publish/windows/).
+## 📄 Licença
+Este projeto é de uso acadêmico e sem fins lucrativos. O uso e distribuição devem respeitar os direitos dos autores e o propósito educativo e social da aplicação.
