@@ -43,8 +43,8 @@ O jogo foi adaptado com elementos visuais, sonoros e contextuais da cidade de Ó
 - **Raila Carvalho**
 - **Jarbas Peixoto**
 
-**Orientador**: Prof. João Lúcio de Souza Junior. <br>
-**Coorientador**: Prof. Reinaldo Sales.
+**Orientador**: Prof. Me. João Lúcio de Souza Junior. <br>
+**Coorientador**: Prof. Dr. Reinaldo Sales.
 
 ## 📈 Status do Projeto
 🟡 **Em desenvolvimento** — as telas principais já foram modeladas e estão em fase de implementação. A coleta de feedback com educadores e profissionais da saúde está em andamento.
