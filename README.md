@@ -34,8 +34,10 @@ O projeto tem como objetivo principal promover a inclusão educacional de crian�
 O jogo foi adaptado com elementos visuais, sonoros e contextuais da cidade de Óbidos-PA, para promover maior identificação cultural e engajamento dos estudantes da região.
 
 ## 🛠️ Tecnologias Utilizadas
-- Python + Flet
-- SQLite
+- Python
+- Framework Flet
+- JSON
+- Gemini AI como assistente virtual
 
 ## 👩‍💻 Equipe de Desenvolvimento
 - **Raila Carvalho**
